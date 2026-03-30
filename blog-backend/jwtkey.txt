@@ -1,0 +1,9 @@
+c3f9a1b5d79e4c2f8e6a7d0b1f3c5e4d7a9b2c8f0e3d6a1b7c4e9f8d2a5b0c3f
+
+
+{
+  "username": "testuser",
+  "email": "testuser@example.com",
+  "password": "test123"
+}
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNzQ3OTgwNzA2fQ.0GSBHKdM3scpT5VoFUeniu2XfeQaP4Okrrv-asuOzng"
